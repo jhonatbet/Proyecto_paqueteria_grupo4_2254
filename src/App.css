@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.black {
+  background-color:whitesmoke;
+}
+
+
+body{
+  background-image: url("C:\Projects\proyecto_paqueteria\img\road2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
