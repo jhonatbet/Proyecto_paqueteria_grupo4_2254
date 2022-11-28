@@ -9,9 +9,9 @@
   background-color:whitesmoke;
 }
 
-
 body{
-  background-image: url("C:\Projects\proyecto_paqueteria\img\road2.jpg");
+  background-image: url("/public/img/principal.jpeg");
   background-repeat: no-repeat;
   background-size: cover; 
 }
+
