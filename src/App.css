@@ -1,7 +1,7 @@
 #root {
-  max-width: 1280px;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 3rem;
   text-align: center;
 }
 
@@ -10,8 +10,8 @@
 }
 
 body{
-  background-image: url("/public/img/principal.jpeg");
+  background-image: url("/img/principal.jpeg");
   background-repeat: no-repeat;
-  background-size: cover; 
+  background-size: cover;
 }
 
